@@ -40,7 +40,7 @@ df3 = get_group_artists_recommendation(ls,mostListenedGenres)
 
 
 print("_____________________________________")
-print(df3)
+print(df2)
 print("----------------------------------------------------")
 
 np.savetxt(r'C:/Users/USER/OneDrive/Documentos/STI/Spotify_Party/utils/artists.txt', df3['id'],fmt='%s')
