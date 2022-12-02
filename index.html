@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Party</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body onload="onPageLoad()">
+    
+    <header>
+        <img src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify-Logo-png-RGB-White.png" alt="" height="62px" width="207px">
+    </header>
+
+    <section class="main">
+        <h1 class="title">Generate Your Playlist</h1>
+        <p class="paragraph">Generate here your playlist with the most listened genres of your group of friends. It's time to merge universes!</p>
+
+        <div class="types" id="authsection">
+
+            <div class="forms">
+                <label for="clientid" class="labels">Client ID</label>
+                <input type="text" class="inputs" id="clientid">
+
+                <label for="secretid" class="labels">Client Secret</label>
+                <input type="text" class="inputs" id="clientSecret">
+            </div>
+            
+
+            <div>
+                <input type="button" class="inputs_btn" onclick="requestAuthorization()" value="Request Authorization" id="authBtn">
+            </div>
+        </div>
+
+        <div class="types" id="methodsection">
+            <div class="forms">
+                <label for="getPlaylist" class="labels">STI Party</label>
+                <select name="STI Party" id="getPlaylist" class="inputs"></select>
+
+                <input type="button" class="inputs_btn" onclick="refreshPlaylists()" value="Update playlist">
+
+
+            </div>
+        </div>
+
+        
+    </section>
+
+
+
+
+
+    <script src="main.js"></script>
+</body>
+</html>

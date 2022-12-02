@@ -1,0 +1,42 @@
+function getArtistTopTracks(){
+    callApi("GET", TOPTRACKS, null, handleArtistTopTracks);
+}
+
+function handleArtistTopTracks(){
+    if (this.status == 200){
+        var data = JSON.parse(this.responseText);
+        console.log(data);
+        removeAllItems("topartist");
+        data.item.forEach(item => addArtist(item));
+    }
+    else if (this.status == 401){
+        //refershAccessToken()
+    }
+    else {
+        console.log(this.responseText);
+        alert(this.responseText);
+    }
+}
+
+function callApi(method, url, body, callback){
+    let xhr = new XMLHttpRequest();
+    xhr.open(method, url, true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.setRequestHeader('Authorization', 'Bearer ' + access_token);
+    xhr.send(body);
+    xhr.onload = callback;
+}
+
+function addArtist(item){
+    let node = document.createElement("option");
+    node.value = item.id;
+    node.innerHTML = item.name + " (" + item.tracks.total + ")";
+    document.getElementById("topartist").appendChild(node); 
+}
+
+function removeAllItems( elementId ){
+    let node = document.getElementById(elementId);
+    while (node.firstChild) {
+        node.removeChild(node.firstChild);
+    }
+}

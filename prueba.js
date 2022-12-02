@@ -40,7 +40,7 @@ async function asyncReadFile(filename) {
 function createSongsList(token){
     artists.forEach(artist => {
         let topTracks = getArtistTopTracks(artist,token);
-        for(let i = 0; i < topTracks.length; i++) {
+        for(let i = 0; i <= 5; i++) {
             let obj = topTracks[i];
             songs.push(obj.uri);
         }
