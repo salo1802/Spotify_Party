@@ -1,0 +1,934 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270586,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19905031"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+      },
+      "href": "https://api.spotify.com/v1/tracks/503OTo2dSqe7qk76rgsbep",
+      "id": "503OTo2dSqe7qk76rgsbep",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Still D.R.E.",
+      "popularity": 83,
+      "preview_url": "https://p.scdn.co/mp3-preview/79e15e078c4208e2b41f2e5c2510e9a9c062c0be?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161506,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19915078"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LwU4Vp6od3Sb08CsP99GC",
+      "id": "4LwU4Vp6od3Sb08CsP99GC",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Next Episode",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/0a51a10b22c93ee8b214fe4a87a0b37fe98687f6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222293,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19915077"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7iXF2W9vKmDoGAhlHdpyIa",
+      "id": "7iXF2W9vKmDoGAhlHdpyIa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Forgot About Dre",
+      "popularity": 80,
+      "preview_url": "https://p.scdn.co/mp3-preview/2860867d9259cfd6b28c3b5ac3176578048eb966?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244200,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19915074"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SWVDBtw6h3tm9OehOkDhv",
+      "id": "1SWVDBtw6h3tm9OehOkDhv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "What's The Difference",
+      "popularity": 75,
+      "preview_url": "https://p.scdn.co/mp3-preview/2019225c4cefcd53782d72cc578ade4be72604b5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1SWVDBtw6h3tm9OehOkDhv"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn"
+        },
+        "href": "https://api.spotify.com/v1/albums/45IcnOlgrZDKNwwbNO7CAn",
+        "id": "45IcnOlgrZDKNwwbNO7CAn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d27f8a33b8a8c0417cdca53f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d27f8a33b8a8c0417cdca53f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d27f8a33b8a8c0417cdca53f",
+            "width": 64
+          }
+        ],
+        "name": "I Need A Doctor",
+        "release_date": "2011-02-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:45IcnOlgrZDKNwwbNO7CAn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          },
+          "href": "https://api.spotify.com/v1/artists/4utLUGcTvOJFr6aqIJtYWV",
+          "id": "4utLUGcTvOJFr6aqIJtYWV",
+          "name": "Skylar Grey",
+          "type": "artist",
+          "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283733,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71029031"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/70ATm56tH7OrQ1zurYssz0",
+      "id": "70ATm56tH7OrQ1zurYssz0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Need A Doctor",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/33269bbf9921d7fd0159098f0c9bc439eb23bab3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:70ATm56tH7OrQ1zurYssz0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+          "id": "3np2OYRZAgI4e6lxeGmGr8",
+          "name": "Hittman",
+          "type": "artist",
+          "uri": "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xko5t5site4jVwopoCF21"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xko5t5site4jVwopoCF21",
+          "id": "4xko5t5site4jVwopoCF21",
+          "name": "Six-Two",
+          "type": "artist",
+          "uri": "spotify:artist:4xko5t5site4jVwopoCF21"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215200,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19915073"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Ed7MeXx64f6OcIuoTRCg1",
+      "id": "0Ed7MeXx64f6OcIuoTRCg1",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Xxplosive",
+      "popularity": 70,
+      "preview_url": "https://p.scdn.co/mp3-preview/2615108504d2122a46f1f02448c53b221e3c2e7b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0Ed7MeXx64f6OcIuoTRCg1"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+        },
+        "href": "https://api.spotify.com/v1/albums/74iv82AYPjxyWpGbt9LNuP",
+        "id": "74iv82AYPjxyWpGbt9LNuP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739330b3ab457779ed4137493b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029330b3ab457779ed4137493b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519330b3ab457779ed4137493b",
+            "width": 64
+          }
+        ],
+        "name": "Keep Their Heads Ringin'",
+        "release_date": "1995-03-07",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 310226,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USPO19550012"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1rylJ0VXvhOzLGNm401iaI",
+      "id": "1rylJ0VXvhOzLGNm401iaI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Keep Their Heads Ringin'",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/ace4fda9d69c05e570c327ddc75e79b2f4a620dd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1rylJ0VXvhOzLGNm401iaI"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
+        },
+        "href": "https://api.spotify.com/v1/albums/5ulYXl8kDywda5dOOFkZpX",
+        "id": "5ulYXl8kDywda5dOOFkZpX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a0fca8848835d3b4bf75796",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a0fca8848835d3b4bf75796",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a0fca8848835d3b4bf75796",
+            "width": 64
+          }
+        ],
+        "name": "Gospel (with Eminem)",
+        "release_date": "2022-02-04",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5ulYXl8kDywda5dOOFkZpX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210027,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72123988"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3a2jFwnts4Cf0OwJbK61SL",
+      "id": "3a2jFwnts4Cf0OwJbK61SL",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gospel (with Eminem)",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/9a13e652e83d953ac27da1f227fb130c52a5cb8c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3a2jFwnts4Cf0OwJbK61SL"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "href": "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width": 64
+          }
+        ],
+        "name": 2001,
+        "release_date": "1999-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+          },
+          "href": "https://api.spotify.com/v1/artists/24PJqH46WhB0pUB7NlsFna",
+          "id": "24PJqH46WhB0pUB7NlsFna",
+          "name": "Knoc-Turn'al",
+          "type": "artist",
+          "uri": "spotify:artist:24PJqH46WhB0pUB7NlsFna"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206546,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR19915071"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1iQ5E4z6CJ38dIzvMI9Wdo",
+      "id": "1iQ5E4z6CJ38dIzvMI9Wdo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Watcher",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/ca50117b0d7ae4a80138aba66cbe1994307105ed?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1iQ5E4z6CJ38dIzvMI9Wdo"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+        },
+        "href": "https://api.spotify.com/v1/albums/7r3ZRX5UIxKteuTMu7vL7B",
+        "id": "7r3ZRX5UIxKteuTMu7vL7B",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ad58fd0c7759cd9547aaaa03",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ad58fd0c7759cd9547aaaa03",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ad58fd0c7759cd9547aaaa03",
+            "width": 64
+          }
+        ],
+        "name": "Kush",
+        "release_date": "2010-11-18",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7r3ZRX5UIxKteuTMu7vL7B"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235120,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71028121"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1U8Ho1nOzKXYDvfigOuHG4",
+      "id": "1U8Ho1nOzKXYDvfigOuHG4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kush - Main",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/1d366dfebca8098983ef58165cdda503f0438f3e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1U8Ho1nOzKXYDvfigOuHG4"
+    }
+  ]
+}

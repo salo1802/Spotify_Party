@@ -1,0 +1,954 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239359,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208598"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bDbXMyjaUIooNwFE9wn0N",
+      "id": "1bDbXMyjaUIooNwFE9wn0N",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rich Flex",
+      "popularity": 95,
+      "preview_url": "https://p.scdn.co/mp3-preview/77b5c2fb7b60375528318af2c9efeb155617ef16?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        },
+        "href": "https://api.spotify.com/v1/albums/3cf4iSSKd8ffTncbtKljXw",
+        "id": "3cf4iSSKd8ffTncbtKljXw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028dc0d801766a5aa6a33cbe37",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
+            "width": 64
+          }
+        ],
+        "name": "Honestly, Nevermind",
+        "release_date": "2022-06-17",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218364,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12204897"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3F5CgOj3wFlRv51JsHbxhe",
+      "id": "3F5CgOj3wFlRv51JsHbxhe",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "popularity": 90,
+      "preview_url": "https://p.scdn.co/mp3-preview/5feee7c2fed489c933a31ef125aa4ffb5205a457?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242026,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208607"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KLwPaRDOB87XOYAT2fgxh",
+      "id": "2KLwPaRDOB87XOYAT2fgxh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "popularity": 90,
+      "preview_url": "https://p.scdn.co/mp3-preview/b990079838e0bf5bfcff05b514d40a922ab2c7d5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170501,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208599"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46s57QULU02Voy0Kup6UEb",
+      "id": "46s57QULU02Voy0Kup6UEb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Major Distribution",
+      "popularity": 90,
+      "preview_url": "https://p.scdn.co/mp3-preview/8eda80d4e570f25948bafc204a9235547c79a552?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261543,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208600"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/34tz0eDhGuFErIuW3q4mPX",
+      "id": "34tz0eDhGuFErIuW3q4mPX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "On BS",
+      "popularity": 89,
+      "preview_url": "https://p.scdn.co/mp3-preview/ee7918bbea3c61cb8c0c436cb28812b1a4a91097?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+            "id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "name": "Future",
+            "type": "artist",
+            "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        },
+        "href": "https://api.spotify.com/v1/albums/6tE9Dnp2zInFij4jKssysL",
+        "id": "6tE9Dnp2zInFij4jKssysL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0286badd635b69aea887862214",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485186badd635b69aea887862214",
+            "width": 64
+          }
+        ],
+        "name": "I NEVER LIKED YOU",
+        "release_date": "2022-04-29",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          },
+          "href": "https://api.spotify.com/v1/artists/687cZJR45JO7jhk1LHIbgq",
+          "id": "687cZJR45JO7jhk1LHIbgq",
+          "name": "Tems",
+          "type": "artist",
+          "uri": "spotify:artist:687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189893,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSM12203789"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/59nOXPmaKlBfGMDeOVGrIK",
+      "id": "59nOXPmaKlBfGMDeOVGrIK",
+      "is_local": false,
+      "is_playable": true,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "popularity": 88,
+      "preview_url": "https://p.scdn.co/mp3-preview/a225651eb324272ab25dbf3b757db8d6420b0f4a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236795,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208606"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7GeTsDIc5ykNB6lORO6Cee",
+      "id": "7GeTsDIc5ykNB6lORO6Cee",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Circo Loco",
+      "popularity": 88,
+      "preview_url": "https://p.scdn.co/mp3-preview/3f72077fb1178910bbb3e5792e7f7c758fe39281?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214588,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208603"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZL7WZcjuYKi1KUDtp4kCC",
+      "id": "2ZL7WZcjuYKi1KUDtp4kCC",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Spin Bout U",
+      "popularity": 87,
+      "preview_url": "https://p.scdn.co/mp3-preview/9699f3e7da1b9fb4167d17cc07fc0558823926e3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160821,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208602"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7l2nxyx7IkBX5orhkALg0V",
+      "id": "7l2nxyx7IkBX5orhkALg0V",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Privileged Rappers",
+      "popularity": 86,
+      "preview_url": "https://p.scdn.co/mp3-preview/8da76917cee4be34f8ed40077ad962fdc6ddc1bc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+            "width": 64
+          }
+        ],
+        "name": "Her Loss",
+        "release_date": "2022-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152961,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12208601"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0wshkEEcJUQU33RSRBb5dv",
+      "id": "0wshkEEcJUQU33RSRBb5dv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "BackOutsideBoyz",
+      "popularity": 86,
+      "preview_url": "https://p.scdn.co/mp3-preview/38aba09cd979e25745d6973ffd5dc764d8859db0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0wshkEEcJUQU33RSRBb5dv"
+    }
+  ]
+}

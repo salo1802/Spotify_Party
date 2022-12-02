@@ -1,0 +1,774 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        },
+        "href": "https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj",
+        "id": "2tm3Ht61kqqRZtIYsBjxEj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512350e31bc346a6c20e9de166",
+            "width": 64
+          }
+        ],
+        "name": "Stankonia",
+        "release_date": "2000-10-31",
+        "release_date_precision": "day",
+        "total_tracks": 24,
+        "type": "album",
+        "uri": "spotify:album:2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270506,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF20000357"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0I3q5fE6wg7LIfHGngUTnV",
+      "id": "0I3q5fE6wg7LIfHGngUTnV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ms. Jackson",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/2296f3e01a8671e724e84580f83e871f51d98dcd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        },
+        "href": "https://api.spotify.com/v1/albums/1UsmQ3bpJTyK6ygoOOjG1r",
+        "id": "1UsmQ3bpJTyK6ygoOOjG1r",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026a6387ab37f64034cdc7b367",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516a6387ab37f64034cdc7b367",
+            "width": 64
+          }
+        ],
+        "name": "Speakerboxxx/The Love Below",
+        "release_date": 2003,
+        "release_date_precision": "year",
+        "total_tracks": 40,
+        "type": "album",
+        "uri": "spotify:album:1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 235213,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAR10300924"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2PpruBYCo4H7WOBJ7Q2EwM",
+      "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hey Ya!",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/3196afed0e89dcef43923ede55e0587d5542c9ab?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        },
+        "href": "https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj",
+        "id": "2tm3Ht61kqqRZtIYsBjxEj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512350e31bc346a6c20e9de166",
+            "width": 64
+          }
+        ],
+        "name": "Stankonia",
+        "release_date": "2000-10-31",
+        "release_date_precision": "day",
+        "total_tracks": 24,
+        "type": "album",
+        "uri": "spotify:album:2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240026,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF20000433"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6glsMWIMIxQ4BedzLqGVi4",
+      "id": "6glsMWIMIxQ4BedzLqGVi4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "So Fresh, So Clean",
+      "popularity": 72,
+      "preview_url": "https://p.scdn.co/mp3-preview/97004f77bc4f7367c37ba8e416d2fe9eead37fe7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        },
+        "href": "https://api.spotify.com/v1/albums/1UsmQ3bpJTyK6ygoOOjG1r",
+        "id": "1UsmQ3bpJTyK6ygoOOjG1r",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026a6387ab37f64034cdc7b367",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516a6387ab37f64034cdc7b367",
+            "width": 64
+          }
+        ],
+        "name": "Speakerboxxx/The Love Below",
+        "release_date": 2003,
+        "release_date_precision": "year",
+        "total_tracks": 40,
+        "type": "album",
+        "uri": "spotify:album:1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 369573,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAR10301000"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6bUNEbXT7HovLW6BgPCBsb",
+      "id": "6bUNEbXT7HovLW6BgPCBsb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Roses",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/a2f7ec168b828b861bddaa67d3deec3c2914aa88?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+        },
+        "href": "https://api.spotify.com/v1/albums/1IaBCF26OjgYwUCEPaIyC0",
+        "id": "1IaBCF26OjgYwUCEPaIyC0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0284be563c5931d7ef35706148",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485184be563c5931d7ef35706148",
+            "width": 64
+          }
+        ],
+        "name": "ATLiens",
+        "release_date": "1996-08-27",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230693,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF20400083"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vfvGlqCB7oertO5VLE0sz",
+      "id": "2vfvGlqCB7oertO5VLE0sz",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ATLiens",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/35b15520c68765094e13e26ea801b677b5f41cf8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        },
+        "href": "https://api.spotify.com/v1/albums/1UsmQ3bpJTyK6ygoOOjG1r",
+        "id": "1UsmQ3bpJTyK6ygoOOjG1r",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026a6387ab37f64034cdc7b367",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516a6387ab37f64034cdc7b367",
+            "width": 64
+          }
+        ],
+        "name": "Speakerboxxx/The Love Below",
+        "release_date": 2003,
+        "release_date_precision": "year",
+        "total_tracks": 40,
+        "type": "album",
+        "uri": "spotify:album:1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAR10300967"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5z7mYFfhw6N6f23VwrokJD",
+      "id": "5z7mYFfhw6N6f23VwrokJD",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/fd4c693980a3d5e2a8eb1a415b9b152f62793512?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+        },
+        "href": "https://api.spotify.com/v1/albums/5ceB3rxgXqIRpsOvVzTG28",
+        "id": "5ceB3rxgXqIRpsOvVzTG28",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273377a6d2051b23afea65ee41a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02377a6d2051b23afea65ee41a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851377a6d2051b23afea65ee41a",
+            "width": 64
+          }
+        ],
+        "name": "Aquemini",
+        "release_date": "1998-09-29",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 324373,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF20000410"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0shK5iZQppbHPQYiy60xs9",
+      "id": "0shK5iZQppbHPQYiy60xs9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rosa Parks",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/7d9fafb9b7de858ad5fc8564fbbbb5d6a0f9832e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0shK5iZQppbHPQYiy60xs9"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        },
+        "href": "https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj",
+        "id": "2tm3Ht61kqqRZtIYsBjxEj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512350e31bc346a6c20e9de166",
+            "width": 64
+          }
+        ],
+        "name": "Stankonia",
+        "release_date": "2000-10-31",
+        "release_date_precision": "day",
+        "total_tracks": 24,
+        "type": "album",
+        "uri": "spotify:album:2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 304226,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF20000442"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3WibbMr6canxRJXhNtAvLU",
+      "id": "3WibbMr6canxRJXhNtAvLU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/99c971a2e8e04ef26378c98f250ead38e4190b6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3WibbMr6canxRJXhNtAvLU"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+        },
+        "href": "https://api.spotify.com/v1/albums/5ceB3rxgXqIRpsOvVzTG28",
+        "id": "5ceB3rxgXqIRpsOvVzTG28",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273377a6d2051b23afea65ee41a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02377a6d2051b23afea65ee41a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851377a6d2051b23afea65ee41a",
+            "width": 64
+          }
+        ],
+        "name": "Aquemini",
+        "release_date": "1998-09-29",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222653,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF29800156"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1KQymTxNJfWk6vCD5ywKW2",
+      "id": "1KQymTxNJfWk6vCD5ywKW2",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "popularity": 61,
+      "preview_url": "https://p.scdn.co/mp3-preview/5e0d0518ee7cb46f1010a3506fcc86c8ad1e3451?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1KQymTxNJfWk6vCD5ywKW2"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+        },
+        "href": "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+        "id": "3l5AwLKqQ42VJbc5lTuP8G",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+            "width": 64
+          }
+        ],
+        "name": "Southernplayalisticadillacmuzik",
+        "release_date": "1994-04-26",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast",
+          "type": "artist",
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261266,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLF29300117"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RXEb6UTxJ05RffnAWfUOE",
+      "id": "1RXEb6UTxJ05RffnAWfUOE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Player's Ball",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/8c44629dfdec2bd588f7d9897fc6881cdec87e0b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1RXEb6UTxJ05RffnAWfUOE"
+    }
+  ]
+}

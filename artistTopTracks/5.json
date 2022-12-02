@@ -1,0 +1,1204 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        },
+        "href": "https://api.spotify.com/v1/albums/1TpGeAzOJgAGdPkcWl95r2",
+        "id": "1TpGeAzOJgAGdPkcWl95r2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c9f744b0d62da795bc21d04a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c9f744b0d62da795bc21d04a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c9f744b0d62da795bc21d04a",
+            "width": 64
+          }
+        ],
+        "name": "La Bachata",
+        "release_date": "2022-05-26",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162637,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDYA1800087"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ww2BF9slyYgNOk37BlC4u",
+      "id": "5ww2BF9slyYgNOk37BlC4u",
+      "is_local": false,
+      "is_playable": true,
+      "name": "La Bachata",
+      "popularity": 97,
+      "preview_url": "https://p.scdn.co/mp3-preview/296da587969e145427d963bbe0680d9a25f61db8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+            },
+            "href": "https://api.spotify.com/v1/artists/4bw2Am3p9ji3mYsXNXtQcd",
+            "id": "4bw2Am3p9ji3mYsXNXtQcd",
+            "name": "Piso 21",
+            "type": "artist",
+            "uri": "spotify:artist:4bw2Am3p9ji3mYsXNXtQcd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+        },
+        "href": "https://api.spotify.com/v1/albums/6U2Ncrmi1EeBQQz2NNgh1M",
+        "id": "6U2Ncrmi1EeBQQz2NNgh1M",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7079d75e4e0c3959ca46e23",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d7079d75e4e0c3959ca46e23",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d7079d75e4e0c3959ca46e23",
+            "width": 64
+          }
+        ],
+        "name": 777,
+        "release_date": "2022-10-13",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6U2Ncrmi1EeBQQz2NNgh1M"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bw2Am3p9ji3mYsXNXtQcd",
+          "id": "4bw2Am3p9ji3mYsXNXtQcd",
+          "name": "Piso 21",
+          "type": "artist",
+          "uri": "spotify:artist:4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212304,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF152200437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3eUR4NZa2hc8ZulyFYdCv8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3eUR4NZa2hc8ZulyFYdCv8",
+      "id": "3eUR4NZa2hc8ZulyFYdCv8",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Los Cachos",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/8d6d369f0b6f4306ab7a1e599569c86a36d342ca?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3eUR4NZa2hc8ZulyFYdCv8"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+            "id": "1DxLCyH42yaHKGK3cl5bvG",
+            "name": "Maria Becerra",
+            "type": "artist",
+            "uri": "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
+        },
+        "href": "https://api.spotify.com/v1/albums/3pfyjuT8pPM0i9K3i7n451",
+        "id": "3pfyjuT8pPM0i9K3i7n451",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e21457c85d2349bbced9d710",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e21457c85d2349bbced9d710",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e21457c85d2349bbced9d710",
+            "width": 64
+          }
+        ],
+        "name": "Éxtasis",
+        "release_date": "2022-10-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3pfyjuT8pPM0i9K3i7n451"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+          "id": "1DxLCyH42yaHKGK3cl5bvG",
+          "name": "Maria Becerra",
+          "type": "artist",
+          "uri": "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191606,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDYA1800110"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2X8AGLwb9F0JzJ9zT27a22",
+      "id": "2X8AGLwb9F0JzJ9zT27a22",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Éxtasis",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/5c1d321d7065eab63120324ad1226e9669fd52b5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2X8AGLwb9F0JzJ9zT27a22"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+            "id": "7wU2WGCJ8HxkekHHE2QLul",
+            "name": "Fuego",
+            "type": "artist",
+            "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+            "id": "1bAftSH8umNcGZ0uyV7LMg",
+            "name": "Duki",
+            "type": "artist",
+            "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+        },
+        "href": "https://api.spotify.com/v1/albums/1I92y0NxYT4cUYSQePekyM",
+        "id": "1I92y0NxYT4cUYSQePekyM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fbedec674db39ddc4577dbb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fbedec674db39ddc4577dbb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fbedec674db39ddc4577dbb",
+            "width": 64
+          }
+        ],
+        "name": "Una Vaina Loca",
+        "release_date": "2021-10-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          },
+          "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+          "id": "1bAftSH8umNcGZ0uyV7LMg",
+          "name": "Duki",
+          "type": "artist",
+          "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226187,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMDA62163176"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qEoAz0i6yEz5dPggABcLH",
+      "id": "2qEoAz0i6yEz5dPggABcLH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Una Vaina Loca",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/728543c0faec915338ed7196c1b69c5bbd47b426?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+            "id": "2wkoKEfS6dXwThbyTnZWFU",
+            "name": "Mau y Ricky",
+            "type": "artist",
+            "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+        },
+        "href": "https://api.spotify.com/v1/albums/01yYW0rRRwlEZx1dMmc5ff",
+        "id": "01yYW0rRRwlEZx1dMmc5ff",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d2ebc81ef0f59b6144e57daa",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d2ebc81ef0f59b6144e57daa",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d2ebc81ef0f59b6144e57daa",
+            "width": 64
+          }
+        ],
+        "name": "Para Aventuras y Curiosidades",
+        "release_date": "2019-05-03",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+          "id": "2wkoKEfS6dXwThbyTnZWFU",
+          "name": "Mau y Ricky",
+          "type": "artist",
+          "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          },
+          "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "type": "artist",
+          "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204563,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSD11800344"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+      },
+      "href": "https://api.spotify.com/v1/tracks/56f5qnyAlZdlz8wrUDA50h",
+      "id": "56f5qnyAlZdlz8wrUDA50h",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Desconocidos",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/be33290881b2f064cd041d8308f4a9ce10aada43?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+        },
+        "href": "https://api.spotify.com/v1/albums/2yYl7Q3GOoBjznGy0Rsc2f",
+        "id": "2yYl7Q3GOoBjznGy0Rsc2f",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d4db0cf7d386e85d2bf554b2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d4db0cf7d386e85d2bf554b2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d4db0cf7d386e85d2bf554b2",
+            "width": 64
+          }
+        ],
+        "name": "Dopamina",
+        "release_date": "2021-04-09",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191945,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDYA1800021"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1WH3iquIQXnSPwUzlROT8R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1WH3iquIQXnSPwUzlROT8R",
+      "id": "1WH3iquIQXnSPwUzlROT8R",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Quiéreme Mientras Se Pueda",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/593e731659eb306cf7a5d8a3771b6519c9f1191e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1WH3iquIQXnSPwUzlROT8R"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Varios Artistas",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6EZE5e3vBZZkSsnyn1g1gb"
+        },
+        "href": "https://api.spotify.com/v1/albums/6EZE5e3vBZZkSsnyn1g1gb",
+        "id": "6EZE5e3vBZZkSsnyn1g1gb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739a38cb6fb29a6fa644606576",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029a38cb6fb29a6fa644606576",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519a38cb6fb29a6fa644606576",
+            "width": 64
+          }
+        ],
+        "name": "Color Esperanza 2020",
+        "release_date": "2020-05-18",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6EZE5e3vBZZkSsnyn1g1gb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SupJlEpv7RS2tPNRaHViT",
+          "id": "1SupJlEpv7RS2tPNRaHViT",
+          "name": "Nicky Jam",
+          "type": "artist",
+          "uri": "spotify:artist:1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vR2qb8m9WHeZ5ByCbimq2",
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "type": "artist",
+          "uri": "spotify:artist:0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          },
+          "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "type": "artist",
+          "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QVBYiagIaa6ZGSPMbybpy",
+          "id": "4QVBYiagIaa6ZGSPMbybpy",
+          "name": "Pedro Capó",
+          "type": "artist",
+          "uri": "spotify:artist:4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          },
+          "href": "https://api.spotify.com/v1/artists/69UypehHabb68utzfjAVlV",
+          "id": "69UypehHabb68utzfjAVlV",
+          "name": "Kany García",
+          "type": "artist",
+          "uri": "spotify:artist:69UypehHabb68utzfjAVlV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t7UqWteBBmHXkcVhMSyay",
+          "id": "3t7UqWteBBmHXkcVhMSyay",
+          "name": "Leonel García",
+          "type": "artist",
+          "uri": "spotify:artist:3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          },
+          "href": "https://api.spotify.com/v1/artists/2O3v9rCTzLhPFaGaAVgZLt",
+          "id": "2O3v9rCTzLhPFaGaAVgZLt",
+          "name": "Río Roma",
+          "type": "artist",
+          "uri": "spotify:artist:2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/22P1OY4TRFRwhP0q29loQ8",
+          "id": "22P1OY4TRFRwhP0q29loQ8",
+          "name": "Lali",
+          "type": "artist",
+          "uri": "spotify:artist:22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gRP1Ezbtj3qrERnd0XasU",
+          "id": "2gRP1Ezbtj3qrERnd0XasU",
+          "name": "Camila",
+          "type": "artist",
+          "uri": "spotify:artist:2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BwMgvRwlq61SmknvsVIQj",
+          "id": "5BwMgvRwlq61SmknvsVIQj",
+          "name": "Rubén Blades",
+          "type": "artist",
+          "uri": "spotify:artist:5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7mLYMGXg84miYydKwi2aRi",
+          "id": "7mLYMGXg84miYydKwi2aRi",
+          "name": "Diego El Cigala",
+          "type": "artist",
+          "uri": "spotify:artist:7mLYMGXg84miYydKwi2aRi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MHaV05u0io8fQbZ2XPtlC",
+          "id": "3MHaV05u0io8fQbZ2XPtlC",
+          "name": "Prince Royce",
+          "type": "artist",
+          "uri": "spotify:artist:3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zPWcnruZBNnrd22uS8UBy",
+          "id": "3zPWcnruZBNnrd22uS8UBy",
+          "name": "Jorge Villamizar",
+          "type": "artist",
+          "uri": "spotify:artist:3zPWcnruZBNnrd22uS8UBy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cy1zPcrFcXAJTP0APWewL",
+          "id": "2cy1zPcrFcXAJTP0APWewL",
+          "name": "Gente De Zona",
+          "type": "artist",
+          "uri": "spotify:artist:2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KTldaJ8tHSkYU3nigfwP",
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "type": "artist",
+          "uri": "spotify:artist:53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          },
+          "href": "https://api.spotify.com/v1/artists/23wEWD21D4TPYiJugoXmYb",
+          "id": "23wEWD21D4TPYiJugoXmYb",
+          "name": "Thalia",
+          "type": "artist",
+          "uri": "spotify:artist:23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+          },
+          "href": "https://api.spotify.com/v1/artists/6BeO1KuAWBqFriL1mLHtNc",
+          "id": "6BeO1KuAWBqFriL1mLHtNc",
+          "name": "Leslie Grace",
+          "type": "artist",
+          "uri": "spotify:artist:6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LZA6PhNCwUfHzqfpN1nYL",
+          "id": "6LZA6PhNCwUfHzqfpN1nYL",
+          "name": "Angela Torres",
+          "type": "artist",
+          "uri": "spotify:artist:6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4NUePmzDvCYqilXBFa91Hg",
+          "id": "4NUePmzDvCYqilXBFa91Hg",
+          "name": "Dilsinho",
+          "type": "artist",
+          "uri": "spotify:artist:4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+          "id": "2wkoKEfS6dXwThbyTnZWFU",
+          "name": "Mau y Ricky",
+          "type": "artist",
+          "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dzq55YG3wjViqexDwiycQ",
+          "id": "7dzq55YG3wjViqexDwiycQ",
+          "name": "Ivete Sangalo",
+          "type": "artist",
+          "uri": "spotify:artist:7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OUDQLymoysITxprkd0Qvj",
+          "id": "1OUDQLymoysITxprkd0Qvj",
+          "name": "Coti",
+          "type": "artist",
+          "uri": "spotify:artist:1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          },
+          "href": "https://api.spotify.com/v1/artists/39yVoqm6sYFvvqF1RciUVf",
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "type": "artist",
+          "uri": "spotify:artist:39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AIPhNgeF9S1Kyg9Yy3UQW",
+          "id": "3AIPhNgeF9S1Kyg9Yy3UQW",
+          "name": "Dani Martín",
+          "type": "artist",
+          "uri": "spotify:artist:3AIPhNgeF9S1Kyg9Yy3UQW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kIE5Bm5P9h6KDsz46V2qc",
+          "id": "5kIE5Bm5P9h6KDsz46V2qc",
+          "name": "Ara Malikian",
+          "type": "artist",
+          "uri": "spotify:artist:5kIE5Bm5P9h6KDsz46V2qc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217546,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USSD12000092"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3eSJmGWqoBRx5wbFCtvPtz",
+      "id": "3eSJmGWqoBRx5wbFCtvPtz",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Color Esperanza 2020",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/e4a4fb43adab0d4fc77e92b70a627dbe9e1aff33?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3eSJmGWqoBRx5wbFCtvPtz"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Rj6rNR8zIlUUDCs1OyPmW",
+            "id": "5Rj6rNR8zIlUUDCs1OyPmW",
+            "name": "MYA",
+            "type": "artist",
+            "uri": "spotify:artist:5Rj6rNR8zIlUUDCs1OyPmW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+        },
+        "href": "https://api.spotify.com/v1/albums/1PJGPDQCUfl18e5C3to1Uk",
+        "id": "1PJGPDQCUfl18e5C3to1Uk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f77ccf97144a1fe1493f2292",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f77ccf97144a1fe1493f2292",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f77ccf97144a1fe1493f2292",
+            "width": 64
+          }
+        ],
+        "name": "MAL DE AMOR",
+        "release_date": "2022-09-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Rj6rNR8zIlUUDCs1OyPmW",
+          "id": "5Rj6rNR8zIlUUDCs1OyPmW",
+          "name": "MYA",
+          "type": "artist",
+          "uri": "spotify:artist:5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221270,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ARF102200191"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0j15NSe9m6egjzJXXn1QXQ",
+      "id": "0j15NSe9m6egjzJXXn1QXQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "MAL DE AMOR",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/1ac8be93105fb2f758b722c7833edcea979c7d1e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+        },
+        "href": "https://api.spotify.com/v1/albums/2yYl7Q3GOoBjznGy0Rsc2f",
+        "id": "2yYl7Q3GOoBjznGy0Rsc2f",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d4db0cf7d386e85d2bf554b2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d4db0cf7d386e85d2bf554b2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d4db0cf7d386e85d2bf554b2",
+            "width": 64
+          }
+        ],
+        "name": "Dopamina",
+        "release_date": "2021-04-09",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers",
+          "type": "artist",
+          "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216107,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDYA1800024"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5VzNsUnLmYcRfRfxpQsusa",
+      "id": "5VzNsUnLmYcRfRfxpQsusa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "La Nota",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/f868bba1f5667a7ff8dc9096dbde55cb888578dd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5VzNsUnLmYcRfRfxpQsusa"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
+            "id": "7vXDAI8JwjW531ouMGbfcp",
+            "name": "TINI",
+            "type": "artist",
+            "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+            "id": "0tmwSHipWxN12fsoLcFU3B",
+            "name": "Manuel Turizo",
+            "type": "artist",
+            "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6"
+        },
+        "href": "https://api.spotify.com/v1/albums/3Ka78dJC3Xm7UjN7IhCXG6",
+        "id": "3Ka78dJC3Xm7UjN7IhCXG6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ea22b5629201806273dc880",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ea22b5629201806273dc880",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ea22b5629201806273dc880",
+            "width": 64
+          }
+        ],
+        "name": "Maldita Foto",
+        "release_date": "2021-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3Ka78dJC3Xm7UjN7IhCXG6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "type": "artist",
+          "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "type": "artist",
+          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190344,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USHR12141956"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4WkEH0PgystZUaN6QU6Z0B",
+      "id": "4WkEH0PgystZUaN6QU6Z0B",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Maldita Foto",
+      "popularity": 70,
+      "preview_url": "https://p.scdn.co/mp3-preview/73bb0244bf6f066a49cdefca1650f03806eda917?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4WkEH0PgystZUaN6QU6Z0B"
+    }
+  ]
+}

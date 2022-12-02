@@ -1,0 +1,1104 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        },
+        "href": "https://api.spotify.com/v1/albums/46xbsFOp9g1WqTidQEs7YT",
+        "id": "46xbsFOp9g1WqTidQEs7YT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fddcbb546dd3440b1897c4c7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fddcbb546dd3440b1897c4c7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fddcbb546dd3440b1897c4c7",
+            "width": 64
+          }
+        ],
+        "name": "Épico",
+        "release_date": "2019-10-25",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+          "id": "4VMYDCV2IEDYJArk749S6m",
+          "name": "Daddy Yankee",
+          "type": "artist",
+          "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266086,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P1927909"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4t9a07PAghtQMRAIP9FQ7Z",
+      "id": "4t9a07PAghtQMRAIP9FQ7Z",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Soltera - Remix",
+      "popularity": 74,
+      "preview_url": "https://p.scdn.co/mp3-preview/8ba97ea2336e71cf53c4d24e2f9a34c3ca9759ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NfSBtmWe7oPw1EmetJVso",
+            "id": "2NfSBtmWe7oPw1EmetJVso",
+            "name": "Boza",
+            "type": "artist",
+            "uri": "spotify:artist:2NfSBtmWe7oPw1EmetJVso"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Bf3zK23ffWtQtySZ75j55",
+        "id": "1Bf3zK23ffWtQtySZ75j55",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e568be96ee4fdedf48b91e95",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e568be96ee4fdedf48b91e95",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e568be96ee4fdedf48b91e95",
+            "width": 64
+          }
+        ],
+        "name": "Bucle",
+        "release_date": "2022-03-11",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:1Bf3zK23ffWtQtySZ75j55"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NfSBtmWe7oPw1EmetJVso",
+          "id": "2NfSBtmWe7oPw1EmetJVso",
+          "name": "Boza",
+          "type": "artist",
+          "uri": "spotify:artist:2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pQWsZQehhS4wavwh7Fnxd",
+          "id": "1pQWsZQehhS4wavwh7Fnxd",
+          "name": "Lenny Tavárez",
+          "type": "artist",
+          "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+          "id": "2LmcxBak1alK1bf7d1beTr",
+          "name": "Juhn",
+          "type": "artist",
+          "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7a0XAaPaK2aDSqa8p3QnC7",
+          "id": "7a0XAaPaK2aDSqa8p3QnC7",
+          "name": "Beéle",
+          "type": "artist",
+          "uri": "spotify:artist:7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 330477,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSD12100763"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7cx9L3i88euMfx1oNCqDAD",
+      "id": "7cx9L3i88euMfx1oNCqDAD",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ella - Remix",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/16549475ffe08ce09987c3c0fac0d339940444ae?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7cx9L3i88euMfx1oNCqDAD"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        },
+        "href": "https://api.spotify.com/v1/albums/46xbsFOp9g1WqTidQEs7YT",
+        "id": "46xbsFOp9g1WqTidQEs7YT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fddcbb546dd3440b1897c4c7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fddcbb546dd3440b1897c4c7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fddcbb546dd3440b1897c4c7",
+            "width": 64
+          }
+        ],
+        "name": "Épico",
+        "release_date": "2019-10-25",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+          "id": "2R21vXR83lH98kGeO99Y66",
+          "name": "Anuel AA",
+          "type": "artist",
+          "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217129,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P1955936"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37zdqI4r1gswIzczSBkRon",
+      "id": "37zdqI4r1gswIzczSBkRon",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Aventura",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/cc51376585e11200301f9e68d8248bb52e726bf7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:37zdqI4r1gswIzczSBkRon"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+            "id": "7iK8PXO48WeuP03g8YR51W",
+            "name": "Myke Towers",
+            "type": "artist",
+            "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+            },
+            "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+            "id": "1i8SpTcr7yvPOmcqrbnVXY",
+            "name": "Ozuna",
+            "type": "artist",
+            "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
+        },
+        "href": "https://api.spotify.com/v1/albums/0hzFhU2sz14urAdELOUwtU",
+        "id": "0hzFhU2sz14urAdELOUwtU",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735fbd19f5556a46d3279256b9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025fbd19f5556a46d3279256b9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515fbd19f5556a46d3279256b9",
+            "width": 64
+          }
+        ],
+        "name": "La Cama (Remix)",
+        "release_date": "2020-03-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0hzFhU2sz14urAdELOUwtU"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers",
+          "type": "artist",
+          "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          },
+          "href": "https://api.spotify.com/v1/artists/37230BxxYs9ksS7OkZw3IU",
+          "id": "37230BxxYs9ksS7OkZw3IU",
+          "name": "Chencho Corleone",
+          "type": "artist",
+          "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 330240,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P2012969"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tGENA8xef0wABdHvyXwv9",
+      "id": "2tGENA8xef0wABdHvyXwv9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "La Cama - Remix",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/a0ddde3dc5cf572f1eacf6c5846d645edd17834d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2tGENA8xef0wABdHvyXwv9"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+        },
+        "href": "https://api.spotify.com/v1/albums/0hZRo3fmA48T0agQDHKPay",
+        "id": "0hZRo3fmA48T0agQDHKPay",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731baf36948854565db3c3b3e0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021baf36948854565db3c3b3e0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511baf36948854565db3c3b3e0",
+            "width": 64
+          }
+        ],
+        "name": "El Niño",
+        "release_date": "2021-05-21",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+          "id": "7FNnA9vBm6EKceENgCGRMb",
+          "name": "Anitta",
+          "type": "artist",
+          "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P2117978"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/59rjsHYxdxeUG6gd43Emzs",
+      "id": "59rjsHYxdxeUG6gd43Emzs",
+      "is_local": false,
+      "is_playable": true,
+      "name": "TODO O NADA",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/be4bd483bdf2845ab85caf6f02ee08d11c4c3848?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+            "id": "2wkoKEfS6dXwThbyTnZWFU",
+            "name": "Mau y Ricky",
+            "type": "artist",
+            "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+            },
+            "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+            "id": "28gNT5KBp7IjEOQoevXf9N",
+            "name": "Camilo",
+            "type": "artist",
+            "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/5LiT3OZKgkgEeInFxUEObJ",
+        "id": "5LiT3OZKgkgEeInFxUEObJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0e01071b9196e27d38d0d71",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d0e01071b9196e27d38d0d71",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d0e01071b9196e27d38d0d71",
+            "width": 64
+          }
+        ],
+        "name": "La Boca (Remix)",
+        "release_date": "2019-07-17",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5LiT3OZKgkgEeInFxUEObJ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+          "id": "2wkoKEfS6dXwThbyTnZWFU",
+          "name": "Mau y Ricky",
+          "type": "artist",
+          "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          },
+          "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "type": "artist",
+          "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188467,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USSD11900247"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2EEmzqzM70CybVspgM7YRT",
+      "id": "2EEmzqzM70CybVspgM7YRT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "La Boca - Remix",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/8aecff8399a7d8bfe9dc190c021e8c56f30cb321?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2EEmzqzM70CybVspgM7YRT"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qTZZWLzuD59Un5r1speHm",
+            "id": "0qTZZWLzuD59Un5r1speHm",
+            "name": "Chris Jedi",
+            "type": "artist",
+            "uri": "spotify:artist:0qTZZWLzuD59Un5r1speHm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qsKSpcV3ncke3hw52JSMB",
+            "id": "3qsKSpcV3ncke3hw52JSMB",
+            "name": "Young Miko",
+            "type": "artist",
+            "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+        },
+        "href": "https://api.spotify.com/v1/albums/5JcLIpNJRiSXihxPTkY1DD",
+        "id": "5JcLIpNJRiSXihxPTkY1DD",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe3578d04f31a1340ed66469",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe3578d04f31a1340ed66469",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fe3578d04f31a1340ed66469",
+            "width": 64
+          }
+        ],
+        "name": "Condado",
+        "release_date": "2022-09-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qTZZWLzuD59Un5r1speHm",
+          "id": "0qTZZWLzuD59Un5r1speHm",
+          "name": "Chris Jedi",
+          "type": "artist",
+          "uri": "spotify:artist:0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qsKSpcV3ncke3hw52JSMB",
+          "id": "3qsKSpcV3ncke3hw52JSMB",
+          "name": "Young Miko",
+          "type": "artist",
+          "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232813,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72216171"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4C8QCrEqxlZ6esLR2Ws3Qh",
+      "id": "4C8QCrEqxlZ6esLR2Ws3Qh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Condado",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/cf356d29706c65133ebe733f1fe79ddc5aa67ac7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4C8QCrEqxlZ6esLR2Ws3Qh"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+            "id": "4V8Sr092TqfHkfAA5fXXqG",
+            "name": "Luis Fonsi",
+            "type": "artist",
+            "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
+        },
+        "href": "https://api.spotify.com/v1/albums/32dHZEMDKiq0pAGnPgwn2B",
+        "id": "32dHZEMDKiq0pAGnPgwn2B",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dbcbf60ee159f8ffbbe0b7ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dbcbf60ee159f8ffbbe0b7ad",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dbcbf60ee159f8ffbbe0b7ad",
+            "width": 64
+          }
+        ],
+        "name": "Un Ratito",
+        "release_date": "2022-01-14",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:32dHZEMDKiq0pAGnPgwn2B"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+          "id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "Alok",
+          "type": "artist",
+          "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "type": "artist",
+          "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pQWsZQehhS4wavwh7Fnxd",
+          "id": "1pQWsZQehhS4wavwh7Fnxd",
+          "name": "Lenny Tavárez",
+          "type": "artist",
+          "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+          },
+          "href": "https://api.spotify.com/v1/artists/5coW9ioCpvEYGx4v1nvWec",
+          "id": "5coW9ioCpvEYGx4v1nvWec",
+          "name": "Juliette",
+          "type": "artist",
+          "uri": "spotify:artist:5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194906,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "BCAKL2100065"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7m4EYPEEFkhI5aEsM5Tgo0",
+      "id": "7m4EYPEEFkhI5aEsM5Tgo0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Un Ratito",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/f7c8b512944ea5eafcd8060a5f60da9d56934645?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+            },
+            "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+            "id": "47MpMsUfWtgyIIBEFOr4FE",
+            "name": "Lunay",
+            "type": "artist",
+            "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        },
+        "href": "https://api.spotify.com/v1/albums/46xbsFOp9g1WqTidQEs7YT",
+        "id": "46xbsFOp9g1WqTidQEs7YT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fddcbb546dd3440b1897c4c7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fddcbb546dd3440b1897c4c7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fddcbb546dd3440b1897c4c7",
+            "width": 64
+          }
+        ],
+        "name": "Épico",
+        "release_date": "2019-10-25",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Ts9of7VPZElwPQnqnDSfW",
+          "id": "1Ts9of7VPZElwPQnqnDSfW",
+          "name": "Lyanno",
+          "type": "artist",
+          "uri": "spotify:artist:1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+          "id": "2R21vXR83lH98kGeO99Y66",
+          "name": "Anuel AA",
+          "type": "artist",
+          "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          },
+          "href": "https://api.spotify.com/v1/artists/00XhexlJEXQstHimpZN910",
+          "id": "00XhexlJEXQstHimpZN910",
+          "name": "Brytiago",
+          "type": "artist",
+          "uri": "spotify:artist:00XhexlJEXQstHimpZN910"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DspEsT7UXGKd2VaaedgG4",
+          "id": "2DspEsT7UXGKd2VaaedgG4",
+          "name": "Alex Rose",
+          "type": "artist",
+          "uri": "spotify:artist:2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273198,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QM7281848092"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1fXEkSum1vbTa3w0yvYzYW",
+      "id": "1fXEkSum1vbTa3w0yvYzYW",
+      "is_local": false,
+      "is_playable": true,
+      "name": "A Solas - Remix",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/a1bb0f255dd5dded61b2e97bbb6e59c07b7bacc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:1fXEkSum1vbTa3w0yvYzYW"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Q8NcsJwoCbZOHHW63su5S",
+            "id": "0Q8NcsJwoCbZOHHW63su5S",
+            "name": "Mora",
+            "type": "artist",
+            "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+        },
+        "href": "https://api.spotify.com/v1/albums/5r8T7S23cVDSd7a045h4N5",
+        "id": "5r8T7S23cVDSd7a045h4N5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dcec31b44548687b2a81d0c2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dcec31b44548687b2a81d0c2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dcec31b44548687b2a81d0c2",
+            "width": 64
+          }
+        ],
+        "name": "Primer Dia de Clases",
+        "release_date": "2021-02-05",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Q8NcsJwoCbZOHHW63su5S",
+          "id": "0Q8NcsJwoCbZOHHW63su5S",
+          "name": "Mora",
+          "type": "artist",
+          "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          },
+          "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+          "id": "47MpMsUfWtgyIIBEFOr4FE",
+          "name": "Lunay",
+          "type": "artist",
+          "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM4TW2165660"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UmZpd5navRsg2ukqCKJjc",
+      "id": "1UmZpd5navRsg2ukqCKJjc",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Cuando Sera",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/255821c50c064fc9ab05ac013482b3b462158acb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1UmZpd5navRsg2ukqCKJjc"
+    }
+  ]
+}

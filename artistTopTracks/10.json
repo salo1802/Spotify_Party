@@ -1,0 +1,994 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+        },
+        "href": "https://api.spotify.com/v1/albums/6Pqlfg42Sc3ElNuyt5NUiK",
+        "id": "6Pqlfg42Sc3ElNuyt5NUiK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0280c64a084164867806ea617a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485180c64a084164867806ea617a",
+            "width": 64
+          }
+        ],
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "release_date": "2013-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255053,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51300001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XHzzp1j4IfTNp1FTn7YFg",
+      "id": "2XHzzp1j4IfTNp1FTn7YFg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love Me",
+      "popularity": 79,
+      "preview_url": "https://p.scdn.co/mp3-preview/00f40b3604730defb62aad793b11e123d1905440?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2XHzzp1j4IfTNp1FTn7YFg"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+            },
+            "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+            "id": "137W8MRPWKqSmrBGDBFSop",
+            "name": "Wiz Khalifa",
+            "type": "artist",
+            "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            },
+            "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+            "id": "53XhwfbYqKCa1cC15pYq2q",
+            "name": "Imagine Dragons",
+            "type": "artist",
+            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
+        },
+        "href": "https://api.spotify.com/v1/albums/704GHNtZhEe9TBgleCNNGv",
+        "id": "704GHNtZhEe9TBgleCNNGv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517d8dfcfd507069d7f2062caf",
+            "width": 64
+          }
+        ],
+        "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "release_date": "2016-06-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:704GHNtZhEe9TBgleCNNGv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB",
+          "id": "3NPpFNZtSTHheNBaWC82rB",
+          "name": "X Ambassadors",
+          "type": "artist",
+          "uri": "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+          "id": "4xRYI6VqpkE3UwrDrAZL8L",
+          "name": "Logic",
+          "type": "artist",
+          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243490,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT21601893"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4dASQiO1Eoo3RJvt74FtXB",
+      "id": "4dASQiO1Eoo3RJvt74FtXB",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/d0b392ff9e4e4a2631ecf3f81556a6e5d3952a5b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        },
+        "href": "https://api.spotify.com/v1/albums/0pFydyko4Iw450abXlDPpp",
+        "id": "0pFydyko4Iw450abXlDPpp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e80b258c7e0b318202870953",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e80b258c7e0b318202870953",
+            "width": 64
+          }
+        ],
+        "name": "Tha Carter IV (Complete Edition)",
+        "release_date": "2011-08-29",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228093,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51100327"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5hUYsaOyMY32yjRXeuQwGj",
+      "id": "5hUYsaOyMY32yjRXeuQwGj",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Mirror",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/6aa3056d83de3e9635500e5d2cac4bc5872f832b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:5hUYsaOyMY32yjRXeuQwGj"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+        },
+        "href": "https://api.spotify.com/v1/albums/7MZzYkbHL9Tk3O6WeD4Z0Z",
+        "id": "7MZzYkbHL9Tk3O6WeD4Z0Z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02506c4cc93e5a6234164125e1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851506c4cc93e5a6234164125e1",
+            "width": 64
+          }
+        ],
+        "name": "Relapse: Refill",
+        "release_date": "2009-05-15",
+        "release_date_precision": "day",
+        "total_tracks": 29,
+        "type": "album",
+        "uri": "spotify:album:7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 357706,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM70920707"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UsLjwBaTHBX4ektWIr4XX",
+      "id": "5UsLjwBaTHBX4ektWIr4XX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Forever",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/e04521757f21ed5ed042b1c5642d031a2acabc38?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5UsLjwBaTHBX4ektWIr4XX"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+        "id": "1Do3y8IAcbYOToYQJnGwSO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+            "width": 64
+          }
+        ],
+        "name": "Tha Carter III",
+        "release_date": "2008-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          },
+          "href": "https://api.spotify.com/v1/artists/3pbi8H08p95NUZ7m6ybxUV",
+          "id": "3pbi8H08p95NUZ7m6ybxUV",
+          "name": "Static Major",
+          "type": "artist",
+          "uri": "spotify:artist:3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 299333,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM50800556"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5jnxxpX2834SB6LJ0S73Uz",
+      "id": "5jnxxpX2834SB6LJ0S73Uz",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lollipop",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/27b9e4a56dbe7563ca6611dfcff66ce8a6a7297a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5jnxxpX2834SB6LJ0S73Uz"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT"
+        },
+        "href": "https://api.spotify.com/v1/albums/2YL3ddwHuiBGumvzcGHyjT",
+        "id": "2YL3ddwHuiBGumvzcGHyjT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e521b35f461062a93d1a8d1a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e521b35f461062a93d1a8d1a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e521b35f461062a93d1a8d1a",
+            "width": 64
+          }
+        ],
+        "name": "Tha Carter IV (Explicit Version)",
+        "release_date": "2011-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:2YL3ddwHuiBGumvzcGHyjT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7BAaznGSsqcksud4R5ou5z",
+          "id": "7BAaznGSsqcksud4R5ou5z",
+          "name": "Cory Gunz",
+          "type": "artist",
+          "uri": "spotify:artist:7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248586,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51000869"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hvInhBgFlH88UaZrLJ43O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hvInhBgFlH88UaZrLJ43O",
+      "id": "1hvInhBgFlH88UaZrLJ43O",
+      "is_local": false,
+      "is_playable": true,
+      "name": "6 Foot 7 Foot",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/7ecf191f773e9c9ac33dc6668dc93f127ac8ca68?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1hvInhBgFlH88UaZrLJ43O"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+            "id": "0QHgL1lAIqAw0HtD7YldmP",
+            "name": "DJ Khaled",
+            "type": "artist",
+            "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        },
+        "href": "https://api.spotify.com/v1/albums/6NuGZnOc88LcZpEkJIbO50",
+        "id": "6NuGZnOc88LcZpEkJIbO50",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b1038aaf26f4c6daad614707",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b1038aaf26f4c6daad614707",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b1038aaf26f4c6daad614707",
+            "width": 64
+          }
+        ],
+        "name": "GOD DID",
+        "release_date": "2022-08-26",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          },
+          "href": "https://api.spotify.com/v1/artists/7sP4SQ0WY6jfps1I19Ot7i",
+          "id": "7sP4SQ0WY6jfps1I19Ot7i",
+          "name": "Fridayy",
+          "type": "artist",
+          "uri": "spotify:artist:7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 501648,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSM12208418"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2sOj9vyd6yiss9W1IK6chU",
+      "id": "2sOj9vyd6yiss9W1IK6chU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/08d5c75cef36c3ab3a93ff780806dbcb6eb5c8fd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2sOj9vyd6yiss9W1IK6chU"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Varios Artistas",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        },
+        "href": "https://api.spotify.com/v1/albums/35s58BRTGAEWztPo9WqCIs",
+        "id": "35s58BRTGAEWztPo9WqCIs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e2e352d89826aef6dbd5ff8f",
+            "width": 64
+          }
+        ],
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "release_date": "2018-12-14",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71820737"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3vWzyGTu6Ovo1GdrcJqH6e",
+      "id": "3vWzyGTu6Ovo1GdrcJqH6e",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Scared of the Dark (feat. XXXTENTACION)",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/ad626c97bafa5c48917b923bea5bdbd3e7c6014a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3vWzyGTu6Ovo1GdrcJqH6e"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+            "id": "6TIYQ3jFPwQSRmorSezPxX",
+            "name": "Machine Gun Kelly",
+            "type": "artist",
+            "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        },
+        "href": "https://api.spotify.com/v1/albums/3sKZHtQoq3tPtkXbT8PJAc",
+        "id": "3sKZHtQoq3tPtkXbT8PJAc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4683d9ac3c5f14a71523c84",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4683d9ac3c5f14a71523c84",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4683d9ac3c5f14a71523c84",
+            "width": 64
+          }
+        ],
+        "name": "mainstream sellout",
+        "release_date": "2022-03-25",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "Machine Gun Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 124188,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72201502"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1T4tQ4SSagbhAKpvcWg035",
+      "id": "1T4tQ4SSagbhAKpvcWg035",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ay! (feat. Lil Wayne)",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/eab82e9c6a543f6dc2a2903bad8b1e33acf6824c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1T4tQ4SSagbhAKpvcWg035"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+        "id": "1Do3y8IAcbYOToYQJnGwSO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+            "width": 64
+          }
+        ],
+        "name": "Tha Carter III",
+        "release_date": "2008-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221840,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM50800553"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3uqinR4FCjLv28bkrTdNX5",
+      "id": "3uqinR4FCjLv28bkrTdNX5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "A Milli",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/a1bd4ebe6272e5e50e73b8e91d4bf7e4c64c2ea8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3uqinR4FCjLv28bkrTdNX5"
+    }
+  ]
+}

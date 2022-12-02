@@ -1,4 +1,8 @@
 import json
+import codecs
+types_of_encoding = ["utf8", "utf-8"]
+
+
 
 def get_user_favorite_genres(username):
 
@@ -41,14 +45,16 @@ def createList(genres_array):
 # create list with all the genres from the top artists 
 def create_genresList(jsonFileName):
     # Opening JSON file
-    with open(jsonFileName) as json_file:
+    for encoding_type in types_of_encoding:
+        with codecs.open(jsonFileName, encoding = encoding_type, errors ='replace') as json_file:
             data = json.load(json_file)
-    #add the genres that each artist have
-    genres_list = []
-    for x in data['items']:
-        listAllItem = createList(x['genres'])
-        for y in listAllItem:
-            genres_list.append(y) 
+            
+            #add the genres that each artist have
+            genres_list = []
+            for x in data['items']:
+                listAllItem = createList(x['genres'])
+                for y in listAllItem:
+                    genres_list.append(y) 
     return genres_list
 
 
