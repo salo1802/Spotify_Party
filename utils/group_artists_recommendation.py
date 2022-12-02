@@ -17,8 +17,8 @@ def get_group_artists_recommendation(groupArtistsList,mostListenedGenres):
         
         df = pd.DataFrame(artistsRatings,
                   columns = ['Name' , 'Popularity', 'id' ])
-        df.drop_duplicates()          
-        df = df.sort_values('Popularity',ascending=False)
+        df2 = df.drop_duplicates()          
+        df2 = df2.sort_values('Popularity',ascending=False)
 
-    return df.head(10)
+    return df2.head(10)
 
