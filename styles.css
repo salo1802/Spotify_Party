@@ -99,3 +99,8 @@ font-weight: 400;
 .playlist{
     margin-bottom: 20px;
 }
+
+.playlist_btn{
+    display: flex;
+    justify-content: space-between;
+}
